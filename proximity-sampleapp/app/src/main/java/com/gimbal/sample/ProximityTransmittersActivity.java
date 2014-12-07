@@ -24,7 +24,10 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ListView;
 import android.widget.ImageButton;
+import android.content.Intent;
 
 public class ProximityTransmittersActivity extends ListActivity {
 
@@ -36,11 +39,16 @@ public class ProximityTransmittersActivity extends ListActivity {
         super.onCreate(savedInstanceState);
         Log.d(ProximityTransmittersActivity.class.getSimpleName(), "onCreate()");
         setContentView(R.layout.transmitter_list_layout);
+
+
+
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.proximitytransmitters, menu);
+
+
         return true;
     }
 
@@ -92,6 +100,20 @@ public class ProximityTransmittersActivity extends ListActivity {
             	adapter.notifyDataSetChanged();
 			}
         
+        });
+
+//        View rootView = getLayoutInflater().inflate(R.layout.transmitter_list_layout,container,false);
+         ListView listView = getListView();
+//                 (ListView) findViewById(R.id.list);
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener(){
+
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                //String storeId = adapter.getItem(i).toString();
+                Intent newIntent = new Intent(ProximityTransmittersActivity.this,MyActivity.class);
+                startActivity(newIntent);
+            }
         });
 
     }

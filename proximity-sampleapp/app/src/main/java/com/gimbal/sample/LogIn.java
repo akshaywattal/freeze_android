@@ -111,6 +111,10 @@ public class LogIn extends Activity {
                             // Start the activity of Profile Setup
                             Intent proximityActivity = new Intent().setClass(getActivity(), ProximityActivity.class);
                             startActivity(proximityActivity);
+
+                            //Intent jsonActivity = new Intent().setClass(getActivity(), MyActivity.class);
+                            //startActivity(jsonActivity);
+
                         } else if (!passwordStore.equals(passwordPref)) {
                             // Display Toast Message
                             Toast toast = Toast.makeText(getActivity().getApplicationContext(), "Incorrect Username or Password", Toast.LENGTH_LONG);

@@ -94,4 +94,4 @@
         android:layout_alignTop="@+id/thumbnail"
         android:layout_toEndOf="@+id/listTitle" />
 
-</RelativeLayout><!-- From: file:/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/activity_proximitytransmitters.xml -->
+</RelativeLayout><!-- From: file:/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_proximitytransmitters.xml -->

@@ -2,987 +2,995 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res" >
+        <source path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res" >
             <file
                 name="avatar_01_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/avatar_01_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/avatar_01_2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="avatar_062x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/avatar_062x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/avatar_062x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="background"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/background.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/background.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="bar_full2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/bar_full2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/bar_full2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="battery_full"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/battery_full.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/battery_full.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="battery_high"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/battery_high.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/battery_high.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="battery_low"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/battery_low.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/battery_low.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="battery_med"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/battery_med.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/battery_med.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/bg.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/bg.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="btn_activate_disabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/btn_activate_disabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/btn_activate_disabled.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="btn_activate_enabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/btn_activate_enabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/btn_activate_enabled.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="btn_activate_enabled_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/btn_activate_enabled_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/btn_activate_enabled_2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="freeze"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/freeze.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/freeze.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="gradient_addtransmitter"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/gradient_addtransmitter.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/gradient_addtransmitter.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="gradient_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/gradient_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/gradient_bg.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="gradient_bg_hover"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/gradient_bg_hover.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/gradient_bg_hover.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="gradient_sessionboot"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/gradient_sessionboot.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/gradient_sessionboot.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="gradient_sessionstarted"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/gradient_sessionstarted.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/gradient_sessionstarted.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="gradient_transmiterlist"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/gradient_transmiterlist.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/gradient_transmiterlist.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="image_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/image_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/image_bg.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="list_item_bg2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/list_item_bg2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/list_item_bg2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="list_selector"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/list_selector.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/list_selector.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="logo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/logo.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/logo.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="marcopolo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/marcopolo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/marcopolo2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="nav_bar_tile"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/nav_bar_tile.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/nav_bar_tile.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="nav_bar_tile_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/nav_bar_tile_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/nav_bar_tile_2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="nav_icon_binoculars"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/nav_icon_binoculars.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/nav_icon_binoculars.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="nav_icon_binoculars_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/nav_icon_binoculars_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/nav_icon_binoculars_2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="progressbar2"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/progressbar2.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/progressbar2.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="proximitybackground"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/proximitybackground.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/proximitybackground.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="proximitybackground2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/proximitybackground2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/proximitybackground2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="proximitylogo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/proximitylogo.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/proximitylogo.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="proximitylogo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable/proximitylogo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/proximitylogo2x.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="avatar_01_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/avatar_01_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/avatar_01_2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="avatar_062x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/avatar_062x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/avatar_062x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="background"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/background.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/background.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="bar_full2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/bar_full2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/bar_full2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/bg.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/bg.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_disabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/btn_activate_disabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/btn_activate_disabled.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/btn_activate_enabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/btn_activate_enabled.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/btn_activate_enabled_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/btn_activate_enabled_2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="freeze"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/freeze.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/freeze.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_addtransmitter"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_addtransmitter.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_addtransmitter.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_bg.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg_hover"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_bg_hover.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_bg_hover.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionboot"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_sessionboot.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_sessionboot.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionstarted"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_sessionstarted.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_sessionstarted.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_transmiterlist"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_transmiterlist.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/gradient_transmiterlist.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="image_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/image_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/image_bg.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="list_item_bg2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/list_item_bg2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/list_item_bg2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="list_selector"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/list_selector.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/list_selector.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="logo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/logo.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/logo.xml"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="marcopolo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/marcopolo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/marcopolo2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/nav_bar_tile.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/nav_bar_tile.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/nav_bar_tile_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/nav_bar_tile_2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/nav_icon_binoculars.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/nav_icon_binoculars.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/nav_icon_binoculars_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/nav_icon_binoculars_2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/proximitybackground.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/proximitybackground.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/proximitybackground2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/proximitybackground2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/proximitylogo.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/proximitylogo.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-hdpi/proximitylogo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/proximitylogo2x.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="avatar_01_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/avatar_01_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/avatar_01_2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="avatar_062x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/avatar_062x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/avatar_062x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="background"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/background.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/background.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="bar_full2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/bar_full2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/bar_full2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/bg.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/bg.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_disabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/btn_activate_disabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/btn_activate_disabled.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/btn_activate_enabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/btn_activate_enabled.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/btn_activate_enabled_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/btn_activate_enabled_2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="freeze"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/freeze.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/freeze.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="gradient_addtransmitter"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_addtransmitter.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_addtransmitter.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_bg.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg_hover"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_bg_hover.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_bg_hover.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionboot"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_sessionboot.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_sessionboot.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionstarted"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_sessionstarted.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_sessionstarted.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="gradient_transmiterlist"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_transmiterlist.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/gradient_transmiterlist.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="image_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/image_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/image_bg.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="list_item_bg2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/list_item_bg2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/list_item_bg2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="list_selector"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/list_selector.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/list_selector.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="logo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/logo.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/logo.xml"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="marcopolo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/marcopolo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/marcopolo2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/nav_bar_tile.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/nav_bar_tile.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/nav_bar_tile_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/nav_bar_tile_2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/nav_icon_binoculars.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/nav_icon_binoculars.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/nav_icon_binoculars_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/nav_icon_binoculars_2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/proximitybackground.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/proximitybackground.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/proximitybackground2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/proximitybackground2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/proximitylogo.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/proximitylogo.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-ldpi/proximitylogo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-ldpi/proximitylogo2x.png"
                 qualifiers="ldpi-v4"
                 type="drawable" />
             <file
                 name="avatar_01_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/avatar_01_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/avatar_01_2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="avatar_062x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/avatar_062x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/avatar_062x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="background"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/background.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/background.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="bar_full2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/bar_full2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/bar_full2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/bg.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/bg.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_disabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/btn_activate_disabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/btn_activate_disabled.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/btn_activate_enabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/btn_activate_enabled.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/btn_activate_enabled_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/btn_activate_enabled_2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="freeze"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/freeze.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/freeze.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_addtransmitter"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_addtransmitter.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_addtransmitter.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_bg.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg_hover"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_bg_hover.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_bg_hover.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionboot"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_sessionboot.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_sessionboot.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionstarted"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_sessionstarted.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_sessionstarted.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_transmiterlist"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_transmiterlist.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/gradient_transmiterlist.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="image_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/image_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/image_bg.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="list_item_bg2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/list_item_bg2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/list_item_bg2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="list_selector"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/list_selector.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/list_selector.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="logo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/logo.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/logo.xml"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="marcopolo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/marcopolo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/marcopolo2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/nav_bar_tile.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/nav_bar_tile.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/nav_bar_tile_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/nav_bar_tile_2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/nav_icon_binoculars.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/nav_icon_binoculars.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/nav_icon_binoculars_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/nav_icon_binoculars_2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/proximitybackground.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/proximitybackground.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/proximitybackground2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/proximitybackground2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/proximitylogo.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/proximitylogo.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-mdpi/proximitylogo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/proximitylogo2x.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="avatar_01_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/avatar_01_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/avatar_01_2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="avatar_062x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/avatar_062x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/avatar_062x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="background"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/background.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/background.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="bar_full2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/bar_full2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/bar_full2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/bg.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/bg.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_disabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/btn_activate_disabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/btn_activate_disabled.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/btn_activate_enabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/btn_activate_enabled.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/btn_activate_enabled_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/btn_activate_enabled_2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="freeze"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/freeze.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/freeze.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_addtransmitter"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_addtransmitter.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_addtransmitter.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_bg.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg_hover"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_bg_hover.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_bg_hover.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionboot"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_sessionboot.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_sessionboot.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionstarted"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_sessionstarted.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_sessionstarted.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_transmiterlist"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_transmiterlist.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/gradient_transmiterlist.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="image_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/image_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/image_bg.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="list_item_bg2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/list_item_bg2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/list_item_bg2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="list_selector"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/list_selector.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/list_selector.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="logo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/logo.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/logo.xml"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="marcopolo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/marcopolo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/marcopolo2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/nav_bar_tile.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/nav_bar_tile.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/nav_bar_tile_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/nav_bar_tile_2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/nav_icon_binoculars.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/nav_icon_binoculars.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/nav_icon_binoculars_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/nav_icon_binoculars_2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/proximitybackground.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/proximitybackground.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/proximitybackground2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/proximitybackground2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/proximitylogo.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/proximitylogo.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xhdpi/proximitylogo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/proximitylogo2x.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="avatar_01_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/avatar_01_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/avatar_01_2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="avatar_062x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/avatar_062x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/avatar_062x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="background"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/background.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/background.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="bar_full2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/bar_full2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/bar_full2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/bg.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/bg.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_disabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/btn_activate_disabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/btn_activate_disabled.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/btn_activate_enabled.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/btn_activate_enabled.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="btn_activate_enabled_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/btn_activate_enabled_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/btn_activate_enabled_2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="freeze"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/freeze.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/freeze.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_addtransmitter"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_addtransmitter.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_addtransmitter.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_bg.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_bg_hover"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_bg_hover.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_bg_hover.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionboot"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_sessionboot.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_sessionboot.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_sessionstarted"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_sessionstarted.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_sessionstarted.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="gradient_transmiterlist"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_transmiterlist.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/gradient_transmiterlist.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="image_bg"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/image_bg.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/image_bg.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="list_item_bg2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/list_item_bg2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/list_item_bg2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="list_selector"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/list_selector.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/list_selector.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="logo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/logo.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/logo.xml"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="marcopolo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/marcopolo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/marcopolo2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/nav_bar_tile.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/nav_bar_tile.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="nav_bar_tile_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/nav_bar_tile_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/nav_bar_tile_2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/nav_icon_binoculars.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/nav_icon_binoculars.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="nav_icon_binoculars_2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/nav_icon_binoculars_2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/nav_icon_binoculars_2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/proximitybackground.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/proximitybackground.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="proximitybackground2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/proximitybackground2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/proximitybackground2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/proximitylogo.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/proximitylogo.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="proximitylogo2x"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/proximitylogo2x.png"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/proximitylogo2x.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="actionbar_indeterminate_progress"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_log_in"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/activity_log_in.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_log_in.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_main"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/activity_main.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_proximity"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/activity_proximity.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_proximity.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_proximity_bluetooth_settings"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/activity_proximity_bluetooth_settings.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_proximity_bluetooth_settings.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_proximitytransmitters"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/activity_proximitytransmitters.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_proximitytransmitters.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_sign_up"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/activity_sign_up.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_sign_up.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_log_in"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/fragment_log_in.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/fragment_log_in.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_main"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/fragment_main.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/fragment_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_sign_up"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/fragment_sign_up.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/fragment_sign_up.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="transmitter_list_layout"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/transmitter_list_layout.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/transmitter_list_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="log_in"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/menu/log_in.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/menu/log_in.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="main"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/menu/main.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/menu/main.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="proximity"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/menu/proximity.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/menu/proximity.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="proximityadd_transmitter"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/menu/proximityadd_transmitter.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/menu/proximityadd_transmitter.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="proximitytransmitters"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/menu/proximitytransmitters.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/menu/proximitytransmitters.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="sign_up"
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/menu/sign_up.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/menu/sign_up.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/values/dimens.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/values/dimens.xml"
                 qualifiers="" >
+                <dimen name="year" >12dip
+                </dimen>
+                <dimen name="genre" >13dip
+                </dimen>
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
                 <dimen name="activity_vertical_margin" >16dp
                 </dimen>
+                <dimen name="rating" >15dip
+                </dimen>
+                <dimen name="title" >17dp
+                </dimen>
             </file>
             <file
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/values/strings.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="action_settings" >Settings
                 </string>
@@ -1008,33 +1016,35 @@
                 </string>
                 <string name="title_activity_sign_up" >SignUp
                 </string>
-                <string name="app_name" >Find My Stuff
+                <string name="bluetooth_scanning" >Bluetooth Scanning
                 </string>
                 <string name="title_activity_proximity_bluetooth_settings" >Bluetooth Settings
                 </string>
-                <string name="bluetooth_scanning" >Bluetooth Scanning
+                <string name="app_name" >Find My Stuff
                 </string>
                 <string name="exit_app" >Exit App
                 </string>
-                <string name="transmitterList" >Loading Transmitter List ….
+                <string name="title_activity_my" >MyActivity
                 </string>
-                <string name="Hello_proximity_user" >Welcome!!!!
+                <string name="transmitterList" >Loading Transmitter List ….
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>
-                <string name="authorize_proximity" >Authorize Proximity
+                <string name="Hello_proximity_user" >Welcome!!!!
                 </string>
                 <string name="enable_proximity_statement_part2" >to use this app
                 </string>
-                <string name="transmiiter_id" >ID
+                <string name="authorize_proximity" >Authorize Proximity
                 </string>
                 <string name="enable_proximity_statement_part1" >Enable proximity services
+                </string>
+                <string name="transmiiter_id" >ID
                 </string>
                 <string name="appRegistered" >App Registered !!!
                 </string>
             </file>
             <file
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/values/styles.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -1085,13 +1095,13 @@ fill_parent
                     parent="android:Theme.Light" />
             </file>
             <file
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/values-sw720dp-land/dimens.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/values-sw720dp-land/dimens.xml"
                 qualifiers="sw720dp-land-v13" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/values-v11/styles.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -1102,7 +1112,7 @@ fill_parent
                 </style>
             </file>
             <file
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/values-v14/styles.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -1119,17 +1129,70 @@ true
                 </style>
             </file>
             <file
-                path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/values-w820dp/dimens.xml"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/values-w820dp/dimens.xml"
                 qualifiers="w820dp-v13" >
                 <dimen name="activity_horizontal_margin" >64dp
                 </dimen>
             </file>
+            <file
+                name="list_row_selector"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/list_row_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="my"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/menu/my.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="activity_my"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_my.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="list_row_start_color" >#ffffff
+                </color>
+                <color name="list_row_hover_end_color" >#ebeef0
+                </color>
+                <color name="list_row_hover_start_color" >#ebeef0
+                </color>
+                <color name="year" >#888888
+                </color>
+                <color name="list_row_end_color" >#ffffff
+                </color>
+                <color name="genre" >#666666
+                </color>
+                <color name="list_divider" >#d9d9d9
+                </color>
+            </file>
+            <file
+                name="list_row_bg_hover"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/list_row_bg_hover.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_json"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/list_json.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_row_bg"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable/list_row_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_row"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/list_row.xml"
+                qualifiers=""
+                type="layout" />
         </source>
-        <source path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/build/generated/res/rs/debug" />
-        <source path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/build/generated/res/generated/debug" />
+        <source path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/generated/res/rs/debug" />
+        <source path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/generated/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/debug/res" />
+        <source path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/debug/res" />
     </dataSet>
 
 </merger>

@@ -34,4 +34,4 @@
         android:layout_marginTop="32dp"
         android:onClick="onSwitchToggle"
         android:text="@string/bluetooth_scanning" />
-</RelativeLayout><!-- From: file:/Users/awattal/AndroidStudioProjects/proximity-sampleapp/app/src/main/res/layout/activity_proximity_bluetooth_settings.xml -->
+</RelativeLayout><!-- From: file:/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/activity_proximity_bluetooth_settings.xml -->
