@@ -1016,11 +1016,11 @@
                 </string>
                 <string name="title_activity_sign_up" >SignUp
                 </string>
-                <string name="bluetooth_scanning" >Bluetooth Scanning
+                <string name="app_name" >Freeze
                 </string>
                 <string name="title_activity_proximity_bluetooth_settings" >Bluetooth Settings
                 </string>
-                <string name="app_name" >Find My Stuff
+                <string name="bluetooth_scanning" >Bluetooth Scanning
                 </string>
                 <string name="exit_app" >Exit App
                 </string>
@@ -1028,17 +1028,17 @@
                 </string>
                 <string name="transmitterList" >Loading Transmitter List ….
                 </string>
-                <string name="hello_world" >Hello world!
-                </string>
                 <string name="Hello_proximity_user" >Welcome!!!!
                 </string>
-                <string name="enable_proximity_statement_part2" >to use this app
+                <string name="hello_world" >Hello world!
                 </string>
                 <string name="authorize_proximity" >Authorize Proximity
                 </string>
-                <string name="enable_proximity_statement_part1" >Enable proximity services
+                <string name="enable_proximity_statement_part2" >to use this app
                 </string>
                 <string name="transmiiter_id" >ID
+                </string>
+                <string name="enable_proximity_statement_part1" >Enable proximity services
                 </string>
                 <string name="appRegistered" >App Registered !!!
                 </string>
@@ -1162,9 +1162,9 @@ true
                 </color>
                 <color name="list_row_end_color" >#ffffff
                 </color>
-                <color name="genre" >#666666
-                </color>
                 <color name="list_divider" >#d9d9d9
+                </color>
+                <color name="genre" >#666666
                 </color>
             </file>
             <file
@@ -1187,6 +1187,26 @@ true
                 path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/layout/list_row.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                name="freeze_logo"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-hdpi/freeze_logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="freeze_logo"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xxhdpi/freeze_logo.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="freeze_logo"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-mdpi/freeze_logo.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="freeze_logo"
+                path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/src/main/res/drawable-xhdpi/freeze_logo.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
         </source>
         <source path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/generated/res/rs/debug" />
         <source path="/Users/akshaybapat/freeze_android/proximity-sampleapp/app/build/generated/res/generated/debug" />

@@ -17,7 +17,7 @@
 -->
 <resources>
 
-    <string name="app_name">Find My Stuff</string>
+    <string name="app_name">Freeze</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="authorize_proximity">Authorize Proximity</string>

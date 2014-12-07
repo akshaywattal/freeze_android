@@ -67,7 +67,7 @@ public class VisitManagerHandler implements VisitListener {
         attributes.setTemperature(visit.getTransmitter().getTemperature());
         attributes.setRssi(rssi);
         attributes.setDepart(false);
-        attributes.setDeal("Free iPhone for All");
+        //attributes.setDeal();
         transmitters.put(name, attributes);
         this.activity.addDevice(transmitters);
     }
