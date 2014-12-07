@@ -28,6 +28,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.ImageButton;
 import android.content.Intent;
+import android.widget.TextView;
 
 public class ProximityTransmittersActivity extends ListActivity {
 
@@ -110,8 +111,11 @@ public class ProximityTransmittersActivity extends ListActivity {
 
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                //String storeId = adapter.getItem(i).toString();
+                TextView titleText = (TextView) view.findViewById(R.id.listTitle);
+                String storeId = titleText.getText().toString();
+
                 Intent newIntent = new Intent(ProximityTransmittersActivity.this,MyActivity.class);
+                newIntent.putExtra("StoreId",storeId);
                 startActivity(newIntent);
             }
         });

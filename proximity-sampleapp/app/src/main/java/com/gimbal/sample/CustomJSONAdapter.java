@@ -69,10 +69,10 @@ public class CustomJSONAdapter extends BaseAdapter{
         thumbNail.setImageUrl(p.getThumbnailUrl(), imageLoader);
 
         // brand
-        brand.setText("Brand: " + String.valueOf(p.getBrand()));
+        brand.setText( String.valueOf(p.getBrand()));
 
         // name
-        name.setText("Name: " + String.valueOf(p.getName()));
+        name.setText( String.valueOf(p.getName()));
 
         // upc
         //upc.setText("UPC: " + String.valueOf(p.getUPC()));
